@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="Me.jpg"
+       alt="Josh Philip Aguilar"
+       width="180">
+</p>
 # Hi there, I'm Josh Philip Aguilar! 👋
 
 ### 💻 Aspiring IT Professional | Programmer | Database Enthusiast
